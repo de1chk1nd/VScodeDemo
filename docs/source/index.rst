@@ -12,9 +12,12 @@ Furthermore it'll show of to do basic AS3 & FAST calls and integration into git.
 
 If you find any issues, or want to include any additional scripts, please send me an email (m.petersen@f5.com) or open a github issue (https://github.com/de1chk1nd/VScodeDemo/).
 
+Finally - big props to Ben Gordon ( https://github.com/DumpySquare ) from whom I "stole" a lot of conetnt and used it in here (and who wrote the F5-FAST extension!!).
+
 
 .. warning::
    The whole project is currently "work in progress" - documentation and scripts are not yet finished.
+
 
 
 
