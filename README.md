@@ -1,7 +1,6 @@
 
 
-READTHEDOCS: 
-
+READTHEDOCS: https://vscodedemo.readthedocs.io/en/latest/
 
 
 # f5-fasting
