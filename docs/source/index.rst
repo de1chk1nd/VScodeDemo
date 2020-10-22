@@ -6,7 +6,54 @@
 Welcome to my VS Code Demo
 ==========================
 
+This documentation will show some of the Features of the F5 VScode extension "F5-FAST".
 
+Furthermore it'll show of to do basic AS3 & FAST calls and integration into git.
+
+If you find any issues, or want to include any additional scripts, please send me an email (m.petersen@f5.com) or open a github issue (https://github.com/de1chk1nd/VScodeDemo/).
+
+
+.. warning::
+   The whole project is currently "work in progress" - documentation and scripts are not yet finished.
+
+
+
+Lab Setup - Devices
+-------------------
+
+If you want to set up a lab, as used in this documentation (to use the c&p ready scripts), you'll need 3 devices:
+
+* Client with VS Code
+* BigIP 1
+* BigIP 2
+
+Each device is member of two VLANs: management (10.1.1.0/24); external (10.1.10.0/24)
+
+
+========  ========  ==========
+ Device    IP MGMT   IP Prod
+========  ========  ==========
+ Client   10.1.1.2  10.1.10.2
+ BigIP-1  10.1.1.5  10.1.10.5
+ BigIP-2  10.1.1.6  10.1.10.6
+========  ========  ==========
+
+
+
+.. image:: images/LAB_Design.png
+   :width: 800
+   :alt: Lab Overview
+   :align: center
+
+
+Why this Blueprint
+------------------
+
+I think that using VScode and the F5-FAST extension will help NetOPS to get familiar with DevOPS methodologies - as well as help DevOPS to get familiar with f5 (in an automation fashion-style).
+
+There are many tools (Postman), but as this F5-FAST extension helps to automate things, plus be able to directly connect to your own git repo (VScode feature), I find it very helpfull to get familiar using the F5 Automation Toolchain (ATC).
+
+| 
 
 .. toctree::
    :numbered:
@@ -20,12 +67,4 @@ Welcome to my VS Code Demo
    RPM Management <rpm>
    VSCode as a API <API>
    Troubleshooting <Troubleshooting>
-   
 
-
-Indices and tables
-==================
-
-* :ref:`genindex`
-* :ref:`modindex`
-* :ref:`search`
