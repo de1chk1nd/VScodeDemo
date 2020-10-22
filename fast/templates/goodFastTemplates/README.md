@@ -13,11 +13,10 @@ Highlight the each json object in the vscode f5-fast extension, then `F1`, and s
     "tenant_name": "fastTen1",
     "application_name": "app1_http",
     "virtual_port": 80,
-    "virtual_address": "10.90.0.10",
-    "server_port": 8080,
+    "virtual_address": "10.1.10.151",
+    "server_port": 80,
     "server_addresses": [
-      "10.90.0.11",
-      "10.90.0.12"
+      "212.227.165.10"
     ]
   }
 }
@@ -31,10 +30,9 @@ Highlight the each json object in the vscode f5-fast extension, then `F1`, and s
     "tenant_name": "fastTen1",
     "application_name": "app2_tcp",
     "virtual_port": 80,
-    "virtual_address": "10.90.0.20",
+    "virtual_address": "10.1.10.152",
     "server_addresses": [
-      "10.90.0.21",
-      "10.90.0.22"
+      "212.227.165.10"
     ]
   }
 }

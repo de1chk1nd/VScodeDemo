@@ -56,8 +56,8 @@ url: /mgmt/tm/sys/clock
 url: /mgmt/shared/authn/login
 method: POST
 body:
-    username: user1
-    password: dobgispet
+    username: admin
+    password: f5twister!
 
 ```
 
