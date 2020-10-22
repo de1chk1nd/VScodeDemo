@@ -12,7 +12,7 @@ Furthermore it'll show of to do basic AS3 & FAST calls and integration into git.
 
 If you find any issues, or want to include any additional scripts, please send me an email (m.petersen@f5.com) or open a github issue (https://github.com/de1chk1nd/VScodeDemo/).
 
-Finally - big props to Ben Gordon ( https://github.com/DumpySquare ) from whom I "stole" a lot of conetnt and used it in here (and who wrote the F5-FAST extension!!).
+Finally - /bow to Ben Gordon ( https://github.com/DumpySquare ) from whom I "stole" a lot of conte  nt and used it in here (and who wrote the F5-FAST extension!!).
 
 
 .. warning::
@@ -30,6 +30,7 @@ If you want to set up a lab, as used in this documentation (to use the c&p ready
 * BigIP 1
 * BigIP 2
 
+
 Each device is member of two VLANs: management (10.1.1.0/24); external (10.1.10.0/24)
 
 
@@ -44,9 +45,10 @@ Each device is member of two VLANs: management (10.1.1.0/24); external (10.1.10.
 
 
 .. image:: images/LAB_Design.png
-   :width: 800
+   :width: 700
    :alt: Lab Overview
    :align: center
+
 
 
 Why this Blueprint
