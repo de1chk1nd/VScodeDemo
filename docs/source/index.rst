@@ -44,7 +44,7 @@ Each device is member of two VLANs: management (10.1.1.0/24); external (10.1.10.
 
 
 
-.. image:: images/LAB_Design.png
+.. image:: images/lab-design.png
    :width: 700
    :alt: Lab Overview
    :align: center
