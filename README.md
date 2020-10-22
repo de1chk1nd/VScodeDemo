@@ -1,3 +1,9 @@
+
+
+READTHEDOCS: 
+
+
+
 # f5-fasting
 
 The purpose of this repo is to collect and document the authoring of templates and use of F5 FAST service.
