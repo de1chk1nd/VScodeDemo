@@ -26,4 +26,4 @@ declaration:
                         servicePort: 80
                         serverAddresses:
                             - 192.0.1.10
-                            - 192.0.1.11
+                            - 192.0.1.12
